@@ -47,3 +47,13 @@
     font-size: 140%;
     color: #F88013;
 }
+
+.btn-social{
+    background-color: #4B0BA3 !important;
+}
+.i-social{
+    color: #fff !important;
+}
+.btn-social:hover{
+    background-color: #7838D1 !important;
+}
